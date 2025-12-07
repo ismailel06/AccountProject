@@ -1,1 +1,1 @@
-zakii zakii1 5000 zakii@gmail.com zakii123
+user user1 1000 user@user.com user123
